@@ -1,12 +1,11 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aparana 👋
 
 ## What I Build
-[1-2 sentences about the type of projects you build. Be specific. "AI agents that automate PM workflows" beats "passionate about AI."]
-
+I currently lead personalisation at Google One. We build ML based features to improve conversion, retention and lifetime value. Think offers personalising, figuring out which SKUs to recommend based on user preferences and content that helps you immediately understand the value of AI. 
 ## What I'm Working On
-- 🔨 [Current project name] — [one-line description]
-- 📚 [What you're learning right now]
-- 🤝 [What you're looking for — collaborators, feedback, roles]
+- 🔨 Patient Owned EHRs  — Empowering end users to own their most important asset: their health
+- 📚 Focusing on Reinforcement learning and Bayesian learning
+- 🤝 Looking for roles in AI, Growth and Monetization. 
 
 ## Featured Projects
 
@@ -17,9 +16,9 @@
 | [Project 3](link) | [One line] | Zapier, GPT-4 |
 
 ## Connect
-- 💼 [LinkedIn](your-link)
+- 💼 linkedin.com/in/aparana-kohli-2707705/?skipRedirect=true
 - 📝 [Portfolio/Blog](your-link)
-- 📧 [Email](mailto:your@email.com)
+- 📧 aparna.kohli@gmail.com
 
 ---
 *PM who builds things. Currently exploring [your focus area].*
